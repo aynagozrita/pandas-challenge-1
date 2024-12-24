@@ -1,0 +1,13 @@
+## Pandas-challenge-1
+
+
+#Data analisis with Python's Pandas library. Top 5 clients.
+
+Description
+
+Overall point of the project is to create a program which identifies the top 5 clients based on their transaction amounts from a given database. 
+The program expects a CSV file with the data: client_id, total price, and shipping price. 
+This project is structured to import clients transaction data from a CSV file, calculate total transactions per client, and preset results in a user-friendly format, making it a valueble resource for financial analysis and client relationship management. 
+
+Challenges
+The biggest challenge for me were creating a column with a shipping price of $7 per pound for orders over 50 pounds and $10 per pound for items 50 pounds or under. Then confirm of calculations with the provided receipts. 
